@@ -10,7 +10,7 @@ Categorized browsing (Rooms, Mountains, Castles, etc.)
 Responsive design for better mobile view
 
 Tech Stack:
-Frontend: React.js, CSS
+Frontend: HTML, CSS, JS
 Backend: Node.js, Express.js
 Database: MongoDB
 Hosting: Render
